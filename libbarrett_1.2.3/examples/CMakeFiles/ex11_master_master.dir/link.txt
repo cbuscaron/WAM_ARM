@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g -DNDEBUG    CMakeFiles/ex11_master_master.dir/ex11_master_master.cpp.o  -o ex11_master_master  -L/usr/local/lib -rdynamic -lboost_thread -lboost_system -lboost_python -lpthread -L/usr/lib -lgsl -lgslcblas -lm -lconfig -lconfig++ -lpython2.7 -lbarrett -Wl,-rpath,/usr/local/lib 

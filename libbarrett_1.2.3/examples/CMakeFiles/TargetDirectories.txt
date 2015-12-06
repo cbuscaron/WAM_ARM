@@ -1,0 +1,11 @@
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex01_initialize_wam.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex02_hold_position.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex03_simple_move.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex04_display_basic_info.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex05_systems_intro.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex06_realtime_move.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex07_realtime_data_logging.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex08_teach_and_play.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex09_torque_control.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex10_haptics.dir
+/home/cam/WAM_ARM/1.2.3/examples/CMakeFiles/ex11_master_master.dir

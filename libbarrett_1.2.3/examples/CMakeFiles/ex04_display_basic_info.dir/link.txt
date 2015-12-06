@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g -DNDEBUG    CMakeFiles/ex04_display_basic_info.dir/ex04_display_basic_info.cpp.o  -o ex04_display_basic_info  -L/usr/local/lib -rdynamic -lboost_thread -lboost_system -lboost_python -lpthread -L/usr/lib -lgsl -lgslcblas -lm -lconfig -lconfig++ -lpython2.7 -lbarrett -lcurses -lform -Wl,-rpath,/usr/local/lib 

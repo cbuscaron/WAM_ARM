@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g -DNDEBUG    CMakeFiles/ex09_torque_control.dir/ex09_torque_control.cpp.o  -o ex09_torque_control  -L/usr/local/lib -rdynamic -lboost_thread -lboost_system -lboost_python -lpthread -L/usr/lib -lgsl -lgslcblas -lm -lconfig -lconfig++ -lpython2.7 -lbarrett -Wl,-rpath,/usr/local/lib 
